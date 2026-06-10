@@ -86,22 +86,6 @@ Users can filter the analysis using a multi-select Census Region slicer:
 - South  
 - West  
 
-For example, selecting **West** displays states such as:
-
-- Alaska (AK)  
-- Arizona (AZ)  
-- California (CA)  
-- Colorado (CO)  
-- Hawaii (HI)  
-- Idaho (ID)  
-- Montana (MT)  
-- Nevada (NV)  
-- New Mexico (NM)  
-- Oregon (OR)  
-- Utah (UT)  
-- Washington (WA)  
-- Wyoming (WY)  
-
 The dynamic table updates automatically to display only the selected region's population data.
 ---
 ## User Interactions
@@ -148,8 +132,12 @@ Users can:
 ## Business Insights
 The dashboard helps answer questions such as:
 - Which Census Region contains the largest number of states?  
-- How is the U.S. population distributed across Census Divisions?  
+- How is the U.S. population distributed across Census Divisions?
 - Which states experienced the highest population growth between 1950 and 2015?  
 - How have population trends evolved over time?  
 - How do population patterns differ across regions?  
-- What regional demographic changes can be observed over multiple decades?  
+- What regional demographic changes can be observed over multiple decades?
+---
+<img width="1225" height="714" alt="image" src="https://github.com/user-attachments/assets/e49bba97-f432-42b8-8495-c8865a6bf2bb" />
+
+
