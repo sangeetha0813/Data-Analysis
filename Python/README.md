@@ -138,11 +138,12 @@ The dashboard helps answer questions such as:
 - How do population patterns differ across regions?  
 - What regional demographic changes can be observed over multiple decades?
 ---
-<img width="1225" height="714" alt="image" src="https://github.com/user-attachments/assets/e49bba97-f432-42b8-8495-c8865a6bf2bb" /><img width="597" height="356" alt="image" src="https://github.com/user-attachments/assets/122e9117-c0d2-4d19-9ac9-97ae8250b95b" />
+<img width="1225" height="714" alt="image" src="https://github.com/user-attachments/assets/e49bba97-f432-42b8-8495-c8865a6bf2bb" /><img width="597" height="356" alt="image" src="https://github.com/user-attachments/assets/122e9117-c0d2-4d19-9ac9-97ae8250b95b" /> <img width="1273" height="717" alt="image" src="https://github.com/user-attachments/assets/43a7e8c4-9615-4133-bfa6-ec6a30eb23f4" />
+
 
 ## Population Tooltip by Years & by Census_region
 
-<img width="403" height="250" alt="image" src="https://github.com/user-attachments/assets/bc89dcf2-12c7-45da-b3ba-45b8873cdb59" /> , , <img width="326" height="248" alt="image" src="https://github.com/user-attachments/assets/8152ce89-5df3-438c-b00a-3698c5cd8f51" />
+<img width="403" height="250" alt="image" src="https://github.com/user-attachments/assets/bc89dcf2-12c7-45da-b3ba-45b8873cdb59" /> , <img width="326" height="248" alt="image" src="https://github.com/user-attachments/assets/8152ce89-5df3-438c-b00a-3698c5cd8f51" />
 
 
 
