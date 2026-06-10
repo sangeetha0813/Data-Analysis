@@ -1,2 +1,1 @@
-# SQL
-Projects based on MySql
+A portfolio of data analysis projects using Python, SQL, Power BI, and Excel. This repository highlights practical data-driven problem solving, visualization, and business intelligence techniques across diverse datasets
