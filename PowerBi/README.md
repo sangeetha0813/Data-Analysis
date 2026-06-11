@@ -138,7 +138,8 @@ The dashboard helps answer questions such as:
 - How do population patterns differ across regions?  
 - What regional demographic changes can be observed over multiple decades?
 ---
-<img width="1225" height="714" alt="image" src="https://github.com/user-attachments/assets/e49bba97-f432-42b8-8495-c8865a6bf2bb" /><img width="597" height="356" alt="image" src="https://github.com/user-attachments/assets/122e9117-c0d2-4d19-9ac9-97ae8250b95b" /> <img width="957" height="671" alt="image" src="https://github.com/user-attachments/assets/e641a581-ab7c-4a59-b91c-94e429f99a03" />
+<img width="1225" height="714" alt="image" src="https://github.com/user-attachments/assets/e49bba97-f432-42b8-8495-c8865a6bf2bb" /><img width="597" height="356" alt="image" src="https://github.com/user-attachments/assets/122e9117-c0d2-4d19-9ac9-97ae8250b95b" /> <img width="947" height="641" alt="image" src="https://github.com/user-attachments/assets/b9ce56e3-9e22-447e-8429-d127f8031283" />
+
 
 
 ## Population Tooltip by Years & by Census_region
